@@ -1,0 +1,23 @@
+﻿  XandO_remastered.cpp
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(22): warning C4838: преобразование из "int" в "float" требует сужающего преобразования
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(138): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(154): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(165): warning C4101: temp: неиспользованная локальная переменная
+d:\адская дрочильня\x_o\xando_remastered\xando_remastered.cpp(102): warning C4715: check: значение возвращается не при всех путях выполнения
+  XandO_remastered.vcxproj -> D:\адская дрочильня\X_O\XandO_remastered\x64\Debug\XandO_remastered.exe
